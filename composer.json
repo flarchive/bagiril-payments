@@ -1,0 +1,37 @@
+{
+  "name": "bagiril/payments",
+  "description": "Allow you to make products and sell them on your forum",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": ">=0.1.0-beta.8"
+  },
+  "authors": [
+    {
+      "name": "Bagi_Ril",
+      "email": "bagi.ril@yahoo.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Bagiril\\Payments\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Payments",
+      "icon": {
+        "name": "fa-duotone fa-sack-dollar",
+        "backgroundColor": "#4affb7",
+        "color": "#1a1a1a"
+      }
+    },
+    "flagrow": {
+      "discuss": ""
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# payments
+ Flarum Extension
