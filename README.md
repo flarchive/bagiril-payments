@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of bagiril/payments.** Not for installation: use [Packagist](https://packagist.org/packages/bagiril/payments) or the [upstream repository](https://github.com/BagiRil/payments).
 
-**0** versions archived · Latest: [`1.0`](https://github.com/flarchive/bagiril-payments/tree/archive/v1.0) · License: `MIT` · Flarum: `>=0.1.0-beta.8`
+**1** versions archived · Latest: [`1.0`](https://github.com/flarchive/bagiril-payments/tree/archive/v1.0) · License: `MIT` · Flarum: `>=0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0` | 2022-01-26 | `>=0.1.0-beta.8` | [Browse](https://github.com/flarchive/bagiril-payments/tree/archive/v1.0) |
 
 Catalog entry: [packages/bagiril-payments.json](https://github.com/flarchive/archive-index/blob/main/packages/bagiril-payments.json)
 
